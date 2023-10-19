@@ -9,13 +9,14 @@
   },
   "minimum-stability": "dev",
   "extra": {
-    "installer-paths": {
+    "custom-installer": {
       "react": [
-        "vendor:yalesites-org"
+        "type:react-app"
       ]
     }
   },
   "require": {
+    "davidbarratt/custom-installer": "1.0.*@dev",
     "yalesites-org/yale_ai_react_chat": "dev-develop"
   }
 }
