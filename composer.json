@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "extra": {
     "installer-paths": {
-      "react": [
+      "react/{$name}/": [
         "type:react-app"
       ]
     }
