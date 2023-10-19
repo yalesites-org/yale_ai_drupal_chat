@@ -1,0 +1,5 @@
+{
+    "name": "yalesites-org/yale_ai_drupal_chat",
+    "type": "drupal-module",
+    "minimum-stability": "dev"
+}
