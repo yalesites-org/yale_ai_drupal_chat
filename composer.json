@@ -8,16 +8,6 @@
     }
   },
   "minimum-stability": "dev",
-  "extra": {
-    "installer-types": [
-      "react-app"
-    ],
-    "installer-paths": {
-      "react": [
-        "type:react-app"
-      ]
-    }
-  },
   "require": {
     "yalesites-org/yale_ai_react_chat": "dev-develop"
   }
