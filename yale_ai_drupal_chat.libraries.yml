@@ -1,0 +1,6 @@
+react_app:
+  css:
+    theme:
+      /libraries/yale_ai_react_chat/static/assets/index-9b41b975.css: {}
+  js:
+    /libraries/yale_ai_react_chat/static/assets/index-be466c2b.js: { attributes: { type: module } }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\ys_ai_chatbot\Plugin\Block;
+namespace Drupal\yale_ai_drupal_chat\Plugin\Block;
 
 use Drupal\Core\Block\BlockBase;
 use Drupal\Core\Plugin\ContainerFactoryPluginInterface;
