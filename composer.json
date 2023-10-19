@@ -1,5 +1,12 @@
 {
-    "name": "yalesites-org/yale_ai_drupal_chat",
-    "type": "drupal-module",
-    "minimum-stability": "dev"
+  "name": "yalesites-org/yale_ai_drupal_chat",
+  "type": "drupal-module",
+  "minimum-stability": "dev",
+  "extra": {
+    "installer-paths": {
+      "react": [
+        "type:react-app"
+      ]
+    }
+  }
 }
